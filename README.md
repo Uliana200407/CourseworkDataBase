@@ -11,7 +11,7 @@ The "Culinary Recipes Database" is a comprehensive and meticulously curated digi
 ## ER model
 ![ER model_page-0001](https://github.com/Uliana200407/CourseworkDataBase/assets/114984015/418a0e19-9c38-4697-aa6c-12698ad0bd9a)
 
-## DataBase creation script
+## database creation script
 
 ```sql
 CREATE DATABASE culinary_recipe;
