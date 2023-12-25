@@ -3,7 +3,7 @@
 * Overview
 * ER Model
 * Data Base creation script
-  * Subitem 2.1
+  * Relational database schema
 * Item 3
 
 ### Overview🔖
