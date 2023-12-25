@@ -11,8 +11,8 @@ The "Culinary Recipes Database" is a comprehensive and meticulously curated digi
 ## ER model
 ![ER model_page-0001](https://github.com/Uliana200407/CourseworkDataBase/assets/114984015/418a0e19-9c38-4697-aa6c-12698ad0bd9a)
 
-## Database creation script
-
+## Database Creation Script
+Below is the SQL script used to create the database structure for the Culinary Recipes Database:
 ```sql
 CREATE DATABASE culinary_recipe;
 USE culinary_recipe;
@@ -152,6 +152,6 @@ CREATE TABLE recipe_tags (
     FOREIGN KEY (recipe_id) REFERENCES recipes(recipe_id)
 );
 ```
-## Relational database schema
+## Relational Database Schema
 ![culinary_recipe](https://github.com/Uliana200407/CourseworkDataBase/assets/114984015/41af2c09-bfb8-4d2b-8be9-7b1a6a9c50b9)
 
