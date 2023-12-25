@@ -1,1 +1,1 @@
-# Coursework Database:A Collection of Culinary Recipes👩🏻‍🍳
+# Coursework Database: a collection of culinary recipes👩🏻‍🍳
