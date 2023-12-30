@@ -1,0 +1,12 @@
+ALTER TABLE ingredients ADD CONSTRAINT unique_ingredient_name UNIQUE (ingredient_name);
+ALTER TABLE recipes ADD CONSTRAINT check_calories CHECK (calories > 0);
+ALTER TABLE recipes ADD CONSTRAINT unique_recipe_name UNIQUE (recipe_name);
+ALTER TABLE recipe_ingredients ADD CONSTRAINT fk_recipe_ingredients_recipe_id FOREIGN KEY (recipe_id) REFERENCES recipes(recipe_id) ON DELETE CASCADE;
+ALTER TABLE recipe_comments ADD CONSTRAINT check_comment_length CHECK (CHAR_LENGTH(comment_text) <= 500);
+ALTER TABLE recipe_servings ADD CONSTRAINT check_min_servings CHECK (servings > 0);
+ALTER TABLE users ADD CONSTRAINT unique_username UNIQUE (username);
+ALTER TABLE user_ratings ADD CONSTRAINT check_rating_range CHECK (rating >= 1 AND rating <= 5);
+ALTER TABLE recipe_videos ADD CONSTRAINT unique_video_url UNIQUE (video_url);
+ALTER TABLE user_profiles ADD CONSTRAINT unique_email UNIQUE (email);
+ALTER TABLE recipe_prep_times ADD CONSTRAINT check_prep_time_positive CHECK (prep_time >= 0);
+ALTER TABLE recipe_dietary_labels ADD CONSTRAINT unique_dietary_label UNIQUE (dietary_label, recipe_id);

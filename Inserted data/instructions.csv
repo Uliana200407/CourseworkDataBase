@@ -1,0 +1,306 @@
+1,1,1,Preheat the oven to 350 degrees F (175 degrees C).
+2,1,2,Mix flour and salt in a bowl.
+3,1,3,Add water gradually to form a dough.
+4,1,4,Roll out the dough and place it in a baking dish.
+5,1,5,Bake in the preheated oven for 30 minutes.
+6,2,1,Chop all vegetables into small pieces.
+7,2,2,Heat oil in a pan and add onions.
+8,2,3,"Once onions are golden, add other vegetables."
+9,2,4,Add spices and cook for 10 minutes.
+10,3,1,Cut the chicken into small pieces.
+11,3,2,Marinate the chicken with spices for 2 hours.
+12,3,3,Heat oil in a skillet and cook the chicken until brown.
+13,3,4,Add sauce and simmer for 20 minutes.
+14,4,1,Soak beans overnight in plenty of water.
+15,4,2,Drain beans and transfer to a pot.
+16,4,3,Cover with fresh water and bring to a boil.
+17,4,4,Reduce heat and simmer until beans are tender.
+18,5,1,Season the meat with salt and pepper.
+19,5,2,Heat oil in a pan and sear the meat on all sides.
+20,5,3,Remove meat and sauté chopped onions in the same pan.
+21,5,4,Add meat back to the pan along with broth and simmer.
+22,6,1,"Blend tomatoes, onions, and garlic to make a puree."
+23,6,2,Heat oil in a pot and cook the puree for 5 minutes.
+24,6,3,Add spices and continue to cook for another 5 minutes.
+25,6,4,Stir in chopped vegetables and cook until tender.
+26,7,1,Wash and chop all vegetables.
+27,7,2,Heat oil in a large pot and sauté vegetables.
+28,7,3,Add broth and bring to a simmer.
+29,7,4,Add seasoning and simmer for 20 minutes.
+30,8,1,Preheat your oven to 400 degrees F.
+31,8,2,Season the chicken with herbs and spices.
+32,8,3,Place the chicken in a baking dish.
+33,8,4,Roast in the oven for 45 minutes.
+34,9,1,Boil pasta in salted water until al dente.
+35,9,2,"In a separate pan, cook the sauce ingredients."
+36,9,3,Drain pasta and mix with the sauce.
+37,9,4,Serve hot with grated cheese on top.
+38,10,1,Mix all dry ingredients in a bowl.
+39,10,2,Gradually add water and knead into a dough.
+40,10,3,Let the dough rest for 30 minutes.
+41,10,4,Roll out the dough and cut into desired shapes.
+42,10,5,Boil in salted water until they float to the surface.
+43,11,1,Marinate the meat in a blend of spices.
+44,11,2,Refrigerate the meat for at least 4 hours.
+45,11,3,Grill the meat over medium heat until fully cooked.
+46,11,4,Serve with a side of grilled vegetables.
+47,12,1,Clean and chop the fish into pieces.
+48,12,2,"Prepare a marinade of lemon juice, garlic, and herbs."
+49,12,3,Marinate the fish for 1 hour.
+50,12,4,Bake in a preheated oven at 350°F for 25 minutes.
+51,13,1,Dice the vegetables and set aside.
+52,13,2,"In a large pot, sauté onions and garlic in olive oil."
+53,13,3,Add the diced vegetables and cook until tender.
+54,13,4,Stir in tomato sauce and simmer for 20 minutes.
+55,13,5,Season with herbs and serve hot.
+56,14,1,"Mix flour, sugar, and yeast in a large bowl."
+57,14,2,"Add warm water and oil, then knead to form a dough."
+58,14,3,Cover the dough and let it rise for 1 hour.
+59,14,4,Punch down the dough and shape into loaves.
+60,14,5,Bake in a preheated oven at 375°F for 35 minutes.
+61,15,1,Season the beef with salt and pepper.
+62,15,2,"In a skillet, brown the beef on all sides."
+63,15,3,Transfer beef to a slow cooker.
+64,15,4,Add chopped vegetables and broth to the slow cooker.
+65,15,5,Cook on low for 8 hours until the beef is tender.
+66,16,1,"Prepare the salad dressing by whisking together oil, vinegar, and spices."
+67,16,2,"Chop lettuce, tomatoes, cucumbers, and onions."
+68,16,3,"In a large bowl, combine the chopped vegetables."
+69,16,4,Drizzle with dressing and toss to coat evenly.
+70,16,5,Top with croutons and serve immediately.
+71,17,1,Wash and slice the potatoes into thin rounds.
+72,17,2,Toss the potato slices with olive oil and salt.
+73,17,3,Arrange slices on a baking sheet in a single layer.
+74,17,4,Bake in a preheated oven at 400°F until crispy and golden.
+75,17,5,Serve the baked potato chips with your favorite dip.
+76,18,1,"Season the pork chops with salt, pepper, and herbs."
+77,18,2,Heat oil in a skillet over medium-high heat.
+78,18,3,Add the pork chops and cook until browned on each side.
+79,18,4,"Reduce heat, cover, and simmer until pork is cooked through."
+80,18,5,Let the pork chops rest for a few minutes before serving.
+81,19,1,"Blend berries, banana, and milk in a blender until smooth."
+82,19,2,Add a scoop of protein powder and blend again.
+83,19,3,Pour the smoothie into a glass.
+84,19,4,Top with a handful of granola and a few fresh berries.
+85,19,5,Enjoy the smoothie as a healthy breakfast or snack.
+86,20,1,Cut chicken into bite-sized pieces.
+87,20,2,"Marinate chicken in a mixture of soy sauce, garlic, and ginger."
+88,20,3,Heat oil in a wok and stir-fry the chicken until cooked.
+89,20,4,Add vegetables to the wok and stir-fry until just tender.
+90,20,5,Serve the stir-fry over cooked rice or noodles.
+91,21,1,Peel and finely chop the garlic.
+92,21,2,"In a large skillet, heat olive oil over medium heat."
+93,21,3,Add garlic and sauté until fragrant.
+94,21,4,Stir in chopped tomatoes and simmer for 15 minutes.
+95,21,5,"Season with salt, pepper, and basil leaves before serving."
+96,22,1,Preheat the grill to high heat.
+97,22,2,Brush corn cobs with butter and wrap in foil.
+98,22,3,"Grill the corn for about 10 minutes, turning occasionally."
+99,22,4,"Remove from grill, unwrap, and serve with salt and lime juice."
+100,23,1,"In a bowl, mix flour, baking powder, and sugar."
+101,23,2,Gradually add milk and melted butter to form a batter.
+102,23,3,Heat a non-stick pan and pour in some batter.
+103,23,4,"Cook until bubbles form, then flip and cook the other side."
+104,23,5,Serve the pancakes with maple syrup and fresh berries.
+105,24,1,Rinse lentils and soak for an hour.
+106,24,2,"In a pot, bring lentils and water to a boil."
+107,24,3,Reduce heat and simmer until lentils are tender.
+108,24,4,"In a separate pan, sauté onions and spices."
+109,24,5,Mix sautéed onions with lentils and serve hot.
+110,25,1,Slice the eggplants into 1/2 inch thick rounds.
+111,25,2,Salt the eggplant slices and let them sit for 30 minutes to draw out bitterness.
+112,25,3,Rinse the eggplant slices and pat dry.
+113,25,4,Grill the eggplant slices until tender and slightly charred.
+114,25,5,"Layer the eggplant with tomato sauce and cheese, then bake until bubbly."
+115,26,1,Boil a pot of water and cook spaghetti until al dente.
+116,26,2,"In a pan, cook minced garlic in olive oil until golden."
+117,26,3,Add cooked spaghetti to the pan along with parsley and red pepper flakes.
+118,26,4,Toss everything together and serve with grated Parmesan cheese.
+119,27,1,"In a bowl, combine ground meat, breadcrumbs, egg, and seasonings."
+120,27,2,Form the mixture into meatballs.
+121,27,3,"Brown the meatballs in a skillet, then remove and set aside."
+122,27,4,"In the same skillet, prepare a marinara sauce."
+123,27,5,Return meatballs to the skillet with sauce and simmer until cooked through.
+124,28,1,"Chop onions, carrots, and celery for the soup base."
+125,28,2,"In a large pot, sauté the chopped vegetables in oil."
+126,28,3,Add broth and bring to a boil.
+127,28,4,"Add diced chicken and noodles, then simmer until chicken is cooked."
+128,28,5,"Season with salt, pepper, and herbs before serving."
+129,29,1,Peel and dice the potatoes.
+130,29,2,Boil the potatoes in salted water until tender.
+131,29,3,Drain the potatoes and mash them with butter and milk.
+132,29,4,"Season with salt, pepper, and a pinch of nutmeg."
+133,29,5,Serve the mashed potatoes as a side dish with your main course.
+134,30,1,"Mix all-purpose flour, baking soda, and salt in a bowl."
+135,30,2,"In a separate bowl, cream together butter and sugar."
+136,30,3,Beat in eggs and vanilla extract into the butter mixture.
+137,30,4,"Gradually add the flour mixture, stirring to combine."
+138,30,5,"Fold in chocolate chips, then drop dough by spoonfuls onto a baking sheet."
+139,30,6,Bake in a preheated oven at 375°F for 10-12 minutes.
+140,31,1,"Season chicken breasts with salt, pepper, and herbs."
+141,31,2,Heat oil in a skillet and cook the chicken until golden brown.
+142,31,3,Remove the chicken and add sliced mushrooms to the skillet.
+143,31,4,"Pour in chicken broth and cream, simmering until the sauce thickens."
+144,31,5,Return the chicken to the skillet and cook until it done.
+145,32,1,Cut the zucchini into thin slices or spiralize into noodles.
+146,32,2,"Toss zucchini with olive oil, salt, and pepper."
+147,32,3,Grill or sauté the zucchini until just tender.
+148,32,4,Serve as a side dish or topped with your favorite sauce.
+149,33,1,"Thinly slice the beef and marinate in soy sauce, garlic, and ginger."
+150,33,2,"Stir-fry the beef in a hot wok until browned, then set aside."
+151,33,3,"In the same wok, stir-fry a mix of bell peppers, onions, and broccoli."
+152,33,4,"Return the beef to the wok, add oyster sauce, and heat through."
+153,33,5,Serve the beef stir-fry over steamed rice or noodles.
+154,34,1,Preheat the oven to 425°F (220°C).
+155,34,2,"Toss cauliflower florets with olive oil, salt, and pepper."
+156,34,3,"Roast in the oven until golden and tender, about 20-25 minutes."
+157,34,4,Sprinkle with parmesan cheese and fresh parsley before serving.
+158,35,1,"Combine diced tomatoes, onions, cilantro, lime juice, and jalapeños for salsa."
+159,35,2,"Season with salt and pepper, and let the salsa sit for flavors to meld."
+160,35,3,Grill or pan-fry fish fillets until cooked through.
+161,35,4,Serve the fish topped with fresh salsa and a side of rice.
+162,36,1,"In a large bowl, mix together ground turkey, breadcrumbs, and seasonings."
+163,36,2,Form the mixture into burger patties.
+164,36,3,Grill the patties over medium heat until fully cooked.
+165,36,4,"Serve the burgers on toasted buns with lettuce, tomato, and your favorite condiments."
+166,37,1,Peel and chop carrots and sweet potatoes into bite-sized pieces.
+167,37,2,"Place vegetables in a baking dish, drizzle with olive oil, and season."
+168,37,3,Roast in a preheated oven at 400°F until tender and caramelized.
+169,37,4,Finish with a sprinkle of fresh herbs before serving.
+170,38,1,"In a large pot, simmer beef bones with water to make a broth."
+171,38,2,Skim off any foam that rises to the surface.
+172,38,3,"Add onions, carrots, and seasonings to the broth."
+173,38,4,"Simmer for several hours, then strain the broth."
+174,38,5,"Serve the clear broth with noodles, thinly sliced beef, and fresh herbs."
+175,39,1,"Dice an assortment of fresh fruits like apples, oranges, and grapes."
+176,39,2,Mix the fruit in a bowl with a squeeze of lemon juice to prevent browning.
+177,39,3,Stir in a dollop of honey and a sprinkle of cinnamon.
+178,39,4,Chill in the refrigerator before serving as a refreshing fruit salad.
+179,40,1,"Blend ripe avocados, lime juice, and salt to make guacamole."
+180,40,2,"Stir in diced onions, tomatoes, and cilantro."
+181,40,3,Adjust seasoning and add a dash of hot sauce if desired.
+182,40,4,Serve the guacamole with tortilla chips or as a topping for tacos.
+183,41,1,"Season racks of lamb with rosemary, thyme, salt, and pepper."
+184,41,2,Sear the lamb in a hot skillet until browned on all sides.
+185,41,3,Roast in a preheated oven at 400°F until desired doneness is reached.
+186,41,4,Let the lamb rest before slicing and serve with a mint sauce.
+187,42,1,"Combine flour, cocoa powder, and baking powder in a bowl."
+188,42,2,"In another bowl, whisk together eggs, sugar, and vanilla."
+189,42,3,Mix the dry ingredients into the wet until just combined.
+190,42,4,Fold in chopped dark chocolate and pour batter into a baking pan.
+191,42,5,Bake in a preheated oven at 350°F until a toothpick comes out clean.
+192,43,1,"In a large saucepan, cook chopped onions in olive oil until soft."
+193,43,2,Add minced garlic and cook until fragrant.
+194,43,3,"Stir in canned tomatoes, basil, oregano, and simmer for 20 minutes."
+195,43,4,Blend the sauce until smooth and return to the saucepan.
+196,43,5,"Season with salt and pepper, and use as a base for pasta dishes."
+197,44,1,"Season chicken wings with a mix of salt, pepper, and paprika."
+198,44,2,Bake the wings in a preheated oven at 425°F until crispy.
+199,44,3,"In a bowl, toss the baked wings with your favorite BBQ sauce."
+200,44,4,Return the wings to the oven and bake for an additional 10 minutes.
+201,45,1,Peel and dice a large butternut squash.
+202,45,2,Toss the squash in olive oil and season with salt and pepper.
+203,45,3,Roast in a preheated oven at 400°F until tender and slightly caramelized.
+204,45,4,Blend the roasted squash into a puree and use as a base for soups or sauces.
+205,46,1,"Mix ground beef with chopped onions, egg, breadcrumbs, and seasoning."
+206,46,2,Form the mixture into patties.
+207,46,3,Grill the patties on a hot grill until cooked to your preference.
+208,46,4,"Serve the burgers on buns with lettuce, tomato, and your choice of condiments."
+209,47,1,Slice fresh mozzarella and tomatoes.
+210,47,2,Layer the mozzarella and tomato slices on a platter.
+211,47,3,Drizzle with olive oil and balsamic glaze.
+212,47,4,Garnish with fresh basil leaves and a sprinkle of salt and pepper.
+213,48,1,Cook pasta in boiling salted water until al dente.
+214,48,2,"In a skillet, cook garlic in olive oil until golden."
+215,48,3,Add cooked and drained pasta to the skillet with fresh parsley.
+216,48,4,Toss the pasta with grated Parmesan cheese and serve immediately.
+217,49,1,"In a bowl, whisk together eggs, milk, salt, and pepper."
+218,49,2,Heat a non-stick skillet and pour in the egg mixture.
+219,49,3,"Cook the eggs over low heat, gently stirring until they re softly set."
+220,49,4,Serve the scrambled eggs with toast and a side of fresh fruit.
+221,50,1,Clean and chop a variety of mushrooms.
+222,50,2,Sauté the mushrooms in butter with minced garlic.
+223,50,3,Deglaze the pan with white wine and add a splash of cream.
+224,50,4,Serve the creamy mushrooms over grilled steak or toasted bread.
+225,51,1,"Season a whole fish with lemon, garlic, and herbs."
+226,51,2,Place the fish in a baking dish and surround with sliced potatoes and onions.
+227,51,3,Bake in a preheated oven at 375°F until the fish is cooked through.
+228,51,4,Serve the baked fish with a side of roasted vegetables.
+229,52,1,"Blend spinach, kale, banana, and almond milk for a green smoothie."
+230,52,2,Add a scoop of protein powder or Greek yogurt for extra protein.
+231,52,3,Pour the smoothie into a glass and add a few ice cubes.
+232,52,4,Garnish with a slice of lime or a sprig of mint.
+233,53,1,Cut beef into thin strips and season with soy sauce and sesame oil.
+234,53,2,Stir-fry the beef in a hot pan until just cooked.
+235,53,3,"Add sliced bell peppers and onions, cooking until they are tender."
+236,53,4,Serve the beef and vegetables over cooked rice or wrapped in lettuce leaves.
+237,54,1,"Combine flour, sugar, baking powder, and a pinch of salt in a bowl."
+238,54,2,"In a separate bowl, mix milk, melted butter, and an egg."
+239,54,3,Pour the wet ingredients into the dry and stir until just combined.
+240,54,4,"Cook the batter in a greased skillet until bubbles form, then flip to cook the other side."
+241,54,5,"Serve the pancakes with syrup, fresh berries, or whipped cream."
+242,55,1,Toss diced sweet potatoes in olive oil and roast until tender.
+243,55,2,"Sauté chopped onions, garlic, and ground turkey in a skillet."
+244,55,3,"Add black beans, corn, and diced tomatoes to the skillet."
+245,55,4,Fill the roasted sweet potatoes with the turkey and vegetable mixture.
+246,56,1,Prepare sushi rice according to package instructions.
+247,56,2,Lay a sheet of nori on a bamboo sushi mat.
+248,56,3,"Spread rice on the nori and add your choice of fillings like fish, cucumber, and avocado."
+249,56,4,"Roll the sushi tightly using the mat, then slice into pieces and serve with soy sauce."
+250,57,1,Season lamb shanks with salt and brown in a hot ovenproof pot.
+251,57,2,"Remove the lamb and sauté onions, carrots, and garlic in the same pot."
+252,57,3,"Add red wine, broth, and return the lamb shanks to the pot."
+253,57,4,Cover and cook in the oven at 325°F until the lamb is tender.
+254,58,1,"Slice a variety of fresh vegetables like bell peppers, zucchini, and eggplant."
+255,58,2,"Toss the vegetables in olive oil, salt, and pepper."
+256,58,3,Grill the vegetables until they are tender and have grill marks.
+257,58,4,Serve the grilled vegetables as a side or over a bed of quinoa or rice.
+258,59,1,"Mix chopped tomatoes, red onion, cilantro, lime juice, and jalapeño for pico de gallo."
+259,59,2,Season the mixture with salt and let it sit for the flavors to meld.
+260,59,3,Grill chicken breasts seasoned with taco seasoning.
+261,59,4,Slice the grilled chicken and serve with the pico de gallo and warm tortillas.
+262,60,1,"Blend ripe bananas, eggs, and vanilla extract to form a batter."
+263,60,2,Heat a non-stick skillet and pour small amounts of the batter to make pancakes.
+264,60,3,"Cook until bubbles appear on the surface, then flip to cook the other side."
+265,60,4,Serve the banana pancakes with a drizzle of honey or maple syrup.
+266,61,1,"Season a beef brisket with a mix of paprika, garlic powder, salt, and pepper."
+267,61,2,Slow-cook the brisket in a smoker or oven at low temperature for several hours.
+268,61,3,"Once tender, let the brisket rest before slicing."
+269,61,4,Serve the sliced brisket with BBQ sauce and coleslaw.
+270,62,1,Soak rice noodles in warm water until they are soft.
+271,62,2,"Stir-fry shrimp and tofu in a wok, then set aside."
+272,62,3,"In the same wok, cook beaten eggs, then add drained noodles."
+273,62,4,"Add a sauce made of tamarind paste, fish sauce, and sugar to the wok."
+274,62,5,"Mix in the shrimp, tofu, and garnish with crushed peanuts and lime wedges."
+275,63,1,Cut assorted fresh fruit into bite-sized pieces.
+276,63,2,Skewer the fruit pieces onto wooden sticks.
+277,63,3,Chill the fruit skewers in the refrigerator.
+278,63,4,Serve as a refreshing and healthy snack or dessert.
+279,64,1,"Blend fresh basil leaves, pine nuts, garlic, and Parmesan cheese to make pesto."
+280,64,2,Cook your choice of pasta in boiling salted water until al dente.
+281,64,3,Drain the pasta and mix it with the fresh pesto.
+282,64,4,Serve the pesto pasta garnished with extra Parmesan and a drizzle of olive oil.
+283,65,1,Season chicken drumsticks with a mixture of spices.
+284,65,2,Arrange the drumsticks on a baking tray.
+285,65,3,Bake in a preheated oven at 375°F until the chicken is cooked through.
+286,65,4,Serve the baked chicken with a side of roasted vegetables or a salad.
+287,66,1,"In a large bowl, combine diced cucumber, yogurt, garlic, and dill for tzatziki."
+288,66,2,Chill the tzatziki in the refrigerator.
+289,66,3,Grill slices of halloumi cheese until golden and crispy.
+290,66,4,Serve the grilled halloumi with the chilled tzatziki.
+291,67,1,Dice potatoes and boil them until tender.
+292,67,2,"Mash the boiled potatoes with butter, milk, and seasonings."
+293,67,3,Stir in chopped green onions or chives.
+294,67,4,Serve the mashed potatoes as a side dish with meats or vegetables.
+295,68,1,"Season fillets of white fish with lemon juice, salt, and pepper."
+296,68,2,"Dredge the fish in flour, then in beaten egg, and finally in breadcrumbs."
+297,68,3,Fry the breaded fish in hot oil until golden and crispy.
+298,68,4,Serve the fried fish with tartar sauce and lemon wedges.
+299,69,1,"Chop an assortment of fresh vegetables, such as bell peppers, zucchini, and onions."
+300,69,2,"Toss the vegetables in a bowl with olive oil, balsamic vinegar, salt, and pepper."
+301,69,3,"Spread the vegetables on a baking sheet and roast in a preheated oven at 425°F until they are tender and caramelized, about 25-30 minutes."
+302,69,4,Serve the roasted vegetables as a healthy side dish or use them as a topping for grain bowls or salads.
+303,70,1,"Prepare a marinade by mixing soy sauce, honey, ginger, and garlic."
+304,70,2,Marinate chicken thighs in the mixture for at least 1 hour or overnight in the refrigerator.
+305,70,3,"Grill the marinated chicken over medium heat, turning occasionally, until it is thoroughly cooked and has nice grill marks."
+306,70,4,Serve the grilled chicken with a side of steamed rice and a sprinkle of sesame seeds and sliced green onions.
